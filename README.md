@@ -3,6 +3,11 @@
 ## 📖 概要
 MindPaletteは、思考とアイデアを整理するためのカラフルで直感的なマインドマッピングツールです。React.jsを使用して開発され、Tailwind CSSでスタイリングされています。様々なテーマと絵文字セットを使用して、ユーザーの創造性を刺激し、楽しく効果的な思考の可視化を支援します。
 
+![MindPalette Screenshot](img/image00.png)
+
+**[🎨 MindPalette🚀 https://230327tokiex.github.io/mindpalette-public/](https://230327tokiex.github.io/mindpalette-public/)**
+
+
 ## 🚀 特徴
 - 🖋 シンプルで使いやすいインターフェース
 - 🌈 多彩なカラーテーマ
@@ -70,8 +75,13 @@ MindPaletteは、思考のプロセスを色と形で表現することで、ア
 - neon
 - grape
 
+![MindPalette Screenshot](img/image02.png)
+![MindPalette Screenshot](img/image03.png)
+
 ## 📸 スクリーンショット
-![MindPalette Screenshot](path_to_your_image.png)
+![MindPalette Screenshot](img/image04.png)
+![MindPalette Screenshot](img/image05.png)
+![MindPalette Screenshot](img/image06.png)
 
 ## 🛠 技術スタック
 - フロントエンド: React.js
