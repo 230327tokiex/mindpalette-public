@@ -97,7 +97,7 @@ MindPalette aims to aid in idea organization and new idea generation by visually
 June 30, 2024
 
 ## 🤖 Development Support
-This project was developed with the assistance of Claude 3.5 Sonnet by Anthropic.
+This project was born from the developer's passion and built with the assistance of Claude 3.5 Sonnet by Anthropic and Gemini 1.5 Pro by Google.
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -202,7 +202,7 @@ MindPaletteは、思考のプロセスを色と形で表現することで、ア
 2024年6月30日
 
 ## 🤖 開発サポート
-このプロジェクトは、AnthropicのClaude 3.5 Sonnetによるアシスタンスを受けて開発されました。
+このプロジェクトは、開発者の情熱と、AnthropicのClaude 3.5 Sonnet、そしてGoogleのGemini 1.5 Proの協力によって開発されました。
 
 ## 📄 ライセンス
 このプロジェクトはMITライセンスの下で公開されています。詳細は[LICENSE](LICENSE)ファイルをご覧ください。
