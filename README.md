@@ -3,7 +3,7 @@
 ## 📖 Overview
 MindPalette is a colorful and intuitive mind mapping tool designed to help you organize your thoughts and ideas.  Built with React.js and styled with Tailwind CSS, it offers various themes and emoji sets to stimulate your creativity and facilitate fun and effective thought visualization.
 
-![MindPalette Screenshot](img/image00.png)
+![MindPalette Screenshot](img/image01.png)
 
 **[🎨 MindPalette🚀 https://230327tokiex.github.io/mindpalette-public/](https://230327tokiex.github.io/mindpalette-public/)**
 
@@ -15,6 +15,9 @@ MindPalette is a colorful and intuitive mind mapping tool designed to help you o
 - 🔀 Random theme and emoji set functionality
 - 💾 Local storage for data persistence
 - 🎉 Welcoming interface with different motivational messages and emojis each time
+
+
+![MindPalette Screenshot](img/image00.png)
 
 ## 🛠 How to Use
 ### Basic Operation
@@ -38,6 +41,9 @@ MindPalette is a colorful and intuitive mind mapping tool designed to help you o
   - Add: Double-click anywhere on the board to add text.
   - Edit: Double-click the text to enter edit mode.
   - Delete: Delete the text content and confirm the edit to remove the text element.
+
+
+  ![MindPalette Screenshot](img/image06.png)
 
 ## 💡 Concept
 MindPalette aims to aid in idea organization and new idea generation by visually representing the thinking process with colors and shapes.  The colorful themes and diverse emoji sets allow for flexible customization to match the user's mood and task.
@@ -74,12 +80,11 @@ MindPalette aims to aid in idea organization and new idea generation by visually
 - grape
 
 ![MindPalette Screenshot](img/image02.png)
-![MindPalette Screenshot](img/image03.png)
 
 ## 📸 Screenshots
 ![MindPalette Screenshot](img/image04.png)
-![MindPalette Screenshot](img/image05.png)
-![MindPalette Screenshot](img/image06.png)
+
+
 
 ## 🛠 Tech Stack
 - Front-end: React.js
@@ -98,7 +103,6 @@ This project was developed with the assistance of Claude 3.5 Sonnet by Anthropic
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-![MindPalette Screenshot](img/image01.png)
 
 
 # 🎨 MindPalette（日本語版README）
@@ -106,7 +110,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📖 概要
 MindPaletteは、思考とアイデアを整理するためのカラフルで直感的なマインドマップツールです。React.jsを使用して開発され、Tailwind CSSでスタイリングされています。様々なテーマと絵文字セットを使用して、ユーザーの創造性を刺激し、楽しく効果的な思考の可視化を支援します。
 
-![MindPalette Screenshot](img/image00.png)
+![MindPalette Screenshot](img/image03.png)
+
 
 **[🎨 MindPalette🚀 https://230327tokiex.github.io/mindpalette-public/](https://230327tokiex.github.io/mindpalette-public/)**
 
@@ -178,13 +183,13 @@ MindPaletteは、思考のプロセスを色と形で表現することで、ア
 - neon
 - grape
 
-![MindPalette Screenshot](img/image02.png)
-![MindPalette Screenshot](img/image03.png)
 
-## 📸 スクリーンショット
-![MindPalette Screenshot](img/image04.png)
+
+
+## 📸 Screenshots
+
 ![MindPalette Screenshot](img/image05.png)
-![MindPalette Screenshot](img/image06.png)
+
 
 ## 🛠 技術スタック
 - フロントエンド: React.js
