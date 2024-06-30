@@ -1,7 +1,110 @@
 # 🎨 MindPalette
 
+## 📖 Overview
+MindPalette is a colorful and intuitive mind mapping tool designed to help you organize your thoughts and ideas.  Built with React.js and styled with Tailwind CSS, it offers various themes and emoji sets to stimulate your creativity and facilitate fun and effective thought visualization.
+
+![MindPalette Screenshot](img/image00.png)
+
+**[🎨 MindPalette🚀 https://230327tokiex.github.io/mindpalette-public/](https://230327tokiex.github.io/mindpalette-public/)**
+
+
+## 🚀 Features
+- 🖋 Simple and easy-to-use interface
+- 🌈 Diverse color themes
+- 😄 Extensive emoji sets
+- 🔀 Random theme and emoji set functionality
+- 💾 Local storage for data persistence
+- 🎉 Welcoming interface with different motivational messages and emojis each time
+
+## 🛠 How to Use
+### Basic Operation
+1. Open the app and you'll be greeted with a random motivational message and an emoji
+2. Type your content into the text box and create a sticky note by pressing Enter or clicking the add button
+3. Click the arrow buttons to add directional arrows
+4. Click the emoji button to add a random emoji
+5. Select a theme and emoji set from the settings menu
+6. Use the shuffle button to randomly change the theme and emoji set
+
+### Detailed Operation
+- **Moving Elements**: All elements (sticky notes, arrows, emojis, and text) can be freely moved by dragging.
+- **Sticky Note Operations**:
+  - Resize: Click the "⚙️" icon in the upper right corner of a sticky note to resize it in three steps.
+  - Change Color: Click a sticky note to randomly change its color.
+  - Delete: Click the "×" icon in the upper right corner of a sticky note to delete it.
+- **Arrow and Emoji Operations**:
+  - Add: Click the corresponding button to add an arrow or emoji.
+  - Delete: Double-click the element to delete it.
+- **Text Operations**:
+  - Add: Double-click anywhere on the board to add text.
+  - Edit: Double-click the text to enter edit mode.
+  - Delete: Delete the text content and confirm the edit to remove the text element.
+
+## 💡 Concept
+MindPalette aims to aid in idea organization and new idea generation by visually representing the thinking process with colors and shapes.  The colorful themes and diverse emoji sets allow for flexible customization to match the user's mood and task.
+
+## 🎭 Emoji Sets
+- nature
+- fruits
+- space
+- travel
+- sweets
+- animals
+- seaLife
+- birds
+- food
+- smileys
+- weather
+- sports
+- music
+
+## 🌈 Themes
+- default
+- dark
+- stone
+- seaside
+- ocean
+- blackboard
+- forest
+- matcha
+- sunflower
+- latte
+- sunset
+- passion
+- neon
+- grape
+
+![MindPalette Screenshot](img/image02.png)
+![MindPalette Screenshot](img/image03.png)
+
+## 📸 Screenshots
+![MindPalette Screenshot](img/image04.png)
+![MindPalette Screenshot](img/image05.png)
+![MindPalette Screenshot](img/image06.png)
+
+## 🛠 Tech Stack
+- Front-end: React.js
+- Styling: Tailwind CSS
+- State Management: React Hooks
+- Drag & Drop: react-draggable
+- Icons: Lucide React
+
+## 📅 Created
+June 30, 2024
+
+## 🤖 Development Support
+This project was developed with the assistance of Claude 3.5 Sonnet by Anthropic.
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+![MindPalette Screenshot](img/image01.png)
+
+
+# 🎨 MindPalette（日本語版README）
+
 ## 📖 概要
-MindPaletteは、思考とアイデアを整理するためのカラフルで直感的なマインドマッピングツールです。React.jsを使用して開発され、Tailwind CSSでスタイリングされています。様々なテーマと絵文字セットを使用して、ユーザーの創造性を刺激し、楽しく効果的な思考の可視化を支援します。
+MindPaletteは、思考とアイデアを整理するためのカラフルで直感的なマインドマップツールです。React.jsを使用して開発され、Tailwind CSSでスタイリングされています。様々なテーマと絵文字セットを使用して、ユーザーの創造性を刺激し、楽しく効果的な思考の可視化を支援します。
 
 ![MindPalette Screenshot](img/image00.png)
 
